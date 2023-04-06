@@ -1,0 +1,202 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* BACKGROUND */
+body {
+    background-color: rgba(232, 232, 232, 0.932);
+}
+
+ /* INIZIO HEADER */
+
+#header {
+    
+    background-color: whitesmoke ;
+    height: 72px;
+    font-size: 38px;
+    ;
+   
+}
+
+#logo {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#logotipo {
+    margin-bottom: 30px;
+    display: inline;
+    vertical-align:super;
+    font-family: 'Ramabhadra' ;
+    
+
+}
+
+/* FINE HEADER */
+
+
+
+
+/* LAYOUT */
+#container {
+    background-color: whitesmoke;
+    width: 76%;
+    margin: 3% auto  ;
+    font-family: 'Roman New Times', sans-serif;
+}
+
+
+
+
+
+/* INIZIO BOTTONI */
+#button1 {
+    margin-left: 46px;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    padding: 5px 10px;
+    color: white;
+    background-color: rgb(16, 135, 209);
+    border: none;
+    border-radius: 4px;
+}
+
+#button2 {
+    margin-left: 3px;
+    padding: 3px 8px;
+    color: grey;
+    background-color: whitesmoke;
+    border-color: grey;
+    border-style: solid;
+    border-radius: 4px;
+}
+
+/* FINE BOTTONI */
+
+
+
+
+hr {
+    background-color: rgba(232, 232, 232, 0.932);;
+    margin-bottom: 35px ;
+}
+
+
+
+
+
+
+/* INIZIO CORPO */
+h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#subcontainer {
+
+    margin-left: 46px;
+}
+
+p {
+    margin-bottom: 18px;
+    display: inline-block;
+}
+
+.check {
+    border: solid;
+    border-width: 1px;
+    border-radius:  200%;
+    color: green;
+    margin-right: 10px;
+    padding: 3px;
+    font-size: 10px;
+    
+
+
+}
+
+.cross {
+    border: solid;
+    border-width: 1px;
+    border-radius:  200%;
+    color: red;
+    margin-right: 10px;
+    padding: 3px;
+    font-size: 10px;
+
+
+}
+
+.Blu {
+    display: inline-block;
+    margin-left: 8px;
+    background-color:  rgb(16, 135, 209) ;
+    border-radius: 25px;
+    padding: 4px 8px;
+    font-size: 13px;
+    color: whitesmoke;
+    
+}
+
+.Viola {
+    display: inline-block;
+    margin-left: 8px;
+    background-color:  purple ;
+    border-radius: 25px;
+    padding: 4px 8px;
+    font-size: 13px;
+    color: whitesmoke;
+    
+}
+
+.Verde {
+    display: inline-block;
+    margin-left: 8px;
+    background-color:  green ;
+    border-radius: 25px;
+    padding: 4px 8px;
+    font-size: 13px;
+    color: whitesmoke;
+    
+}
+
+.Arancione {
+    display: inline-block;
+    margin-left: 8px;
+    background-color:  orange ;
+    border-radius: 25px;
+    padding: 4px 8px;
+    font-size: 13px;
+    color: whitesmoke;
+    
+}
+
+.Rosa {
+    display: inline-block;
+    margin-left: 8px;
+    background-color:  violet ;
+    border-radius: 25px;
+    padding: 4px 8px;
+    font-size: 13px;
+    color: whitesmoke;
+    
+}
+.Lime {
+    display: inline-block;
+    margin-left: 8px;
+    background-color:  lime ;
+    border-radius: 25px;
+    padding: 4px 8px;
+    font-size: 13px;
+    color: whitesmoke;
+    
+}
+
+#fine {
+    margin-bottom: 50px;
+}
+
+/* FINE CORPO */
